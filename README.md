@@ -1,5 +1,7 @@
 # React WASMER Gif -> MP4 Proof of Concept
 
+## USE CHROME DEV TOOLS FOR THIS, IT LOOKS BETTER IN THE CONSOLE, TRUST ME
+
 ## Install & Run
 ```shell
 $ npm install
